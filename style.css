@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    list-style: none;
+    text-decoration: none;
+}
+
+h1{
+    display: inline;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.botao{
+    background-color: black;
+}
